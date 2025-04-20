@@ -25,7 +25,7 @@ This Python program simulates a simple random walk in one dimension.
 - NumPy
 - Matplotlib
 
-Install them with:
+Install library with:
 
 pip install numpy matplotlib
 
